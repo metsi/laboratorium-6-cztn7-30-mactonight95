@@ -63,3 +63,4 @@ for idx, clf, tt in zip(product(range(3), repeat=2), [clf1, clf2, clf3, clf4, cl
     axarr[idx[0], idx[1]].set_title(tt)
 
 plt.show()
+#!!7
